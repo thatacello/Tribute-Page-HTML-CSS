@@ -9,4 +9,4 @@ O resultado pode ser visto aqui:
 https://thatacello.github.io/Tribute-Page-HTML-CSS/
 
 
-<img href="#">
+<img src="https://github.com/thatacello/Tribute-Page-HTML-CSS/blob/master/page%20madre%20teresa.png?raw=true">
